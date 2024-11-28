@@ -1,4 +1,4 @@
-# learning_public
+# Learning_public
 # 🚀 Welcome to My Frontend Learning Repository 📚
 
 Welcome to **My Frontend Learning Repository**! 🎉 This is where I share everything I'm learning about frontend development, from coding projects to cool resources. If you're passionate about web development, you've come to the right place! 🌐💻
