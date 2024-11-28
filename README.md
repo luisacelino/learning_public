@@ -41,9 +41,3 @@ I'm always open to suggestions and contributions! If you have any feedback, feel
 - LinkedIn: [Luis Acelino](https://www.linkedin.com/in/luisacelino/)
 
 
----
-
-
-
-Happy Coding! 🎉✨
-
